@@ -14,7 +14,7 @@ def pump_off():
     mc.set_basic_output(5, 1)
 
 
-# fucntion to make the cobot move
+# function to make the cobot move
 
 def move(list1):
     
